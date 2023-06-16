@@ -1,0 +1,6 @@
+[
+  {"nama": "Grooming Jamur", "deskripsi": "Grooming yang dikhususkan untuk hewan yang memiliki masalah dengan jamur di badannya.", "gambar": "jamur"},
+  {"nama": "Grooming Kutu" , "deskripsi": "Grooming yang dikhususkan untuk hewan yang memiliki masalah dengan kutu di badannya.", "gambar": "kutu"},
+  {"nama": "Grooming Legkap", "deskripsi": "Grooming yang dikhususkan untuk hewan yang memiliki masalah degan kutu dan jamur.", "gambar": "lengkap"},
+  {"nama": "Grooming Sehat", "deskripsi": "Grooming yang dikhususkan untuk hewan yang sehat, tidak memiliki kutu, dan tidak memiliki jamur.", "gambar": "sehat"}
+]
